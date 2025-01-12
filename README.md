@@ -116,7 +116,7 @@ Before starting, ensure you have the following:
 ---
 
 ## 🤝 Contributions
-This project was developed by **G Pranav Ganesh**, **Prathiksha S**, and **Rohith S**. Feel free to contribute to this project by:
+This project was developed by [G Pranav Ganesh](https://github.com/pranavganesh1), [Prathiksha S](https://github.com/prathiksha), and [Rohith S](https://github.com/RohithUSN23). Feel free to contribute to this project by:
 - Suggesting improvements.
 - Enhancing the encryption and decryption algorithms.
 - Adding support for additional cloud platforms.
